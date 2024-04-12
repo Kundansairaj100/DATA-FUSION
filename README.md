@@ -1,0 +1,1 @@
+DATA-FUSION is a listed menu driven programme in which the user can access Data-Structures like: Linked Lists(Doubly & Singly), Circular Linked List, Stacks,Queues and perform various operations related to those Data-Structures. The Language used for the project is C Language.
